@@ -11,4 +11,4 @@ Software engineering student. I'm learning to build software products and want t
 - [Algorithms and Data Structures](https://github.com/timstt/algorithms-and-data-structures): searching, sorting, linked structures and balanced trees (BST, red-black, AVL, splay) in C#
 - [Object-Oriented Programming](https://github.com/timstt/oop-csharp): classes, inheritance, polymorphism, interfaces and design patterns in C#
 
-Stack: C# / .NET (ASP.NET MVC, Entity Framework) · Python (aiogram, SQLAlchemy, Playwright, pytest) · SQL (MS SQL Server, PostgreSQL, SQLite) · Docker · Git · GitHub Actions · Jira · Confluence
+Stack: C# / .NET (ASP.NET MVC, Entity Framework) · Python (aiogram, SQLAlchemy, pytest) · SQL (MS SQL Server, PostgreSQL,) · Docker · Git · GitHub Actions · Jira · Confluence
